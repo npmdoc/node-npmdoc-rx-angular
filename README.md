@@ -1,4 +1,7 @@
-# api documentation for  [rx-angular (v1.1.3)](https://github.com/Reactive-Extensions/rx.angular.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx-angular)
+# npmdoc-rx-angular
+
+#### basic api documentation for  [rx-angular (v1.1.3)](https://github.com/Reactive-Extensions/rx.angular.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-rx-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rx-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rx-angular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rx-angular)
+
 #### Library for bridging between RxJS and AngularJS.
 
 [![NPM](https://nodei.co/npm/rx-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rx-angular)
@@ -75,7 +78,8 @@
         "test": "grunt"
     },
     "title": "The Reactive Extensions Bindings for the AngularJS.",
-    "version": "1.1.3"
+    "version": "1.1.3",
+    "bin": {}
 }
 ```
 
